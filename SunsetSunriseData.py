@@ -7,7 +7,7 @@ from datetime import datetime
 from datetime import date
 from dateutil import tz
 
-GEOCODE_API_KEY = ""
+GEOCODE_API_KEY = "YOUR_API_KEY_HERE"
 geocode_url = "https://maps.googleapis.com/maps/api/geocode/json?address="
 sunrise_url = "https://api.sunrise-sunset.org/json"
 timezone_url = "https://maps.googleapis.com/maps/api/timezone/json?location="
