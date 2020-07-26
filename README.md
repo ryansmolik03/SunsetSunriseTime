@@ -1,5 +1,5 @@
 # SunsetSunriseTime
-A simple Python script that outputs the local sunset and sunrise time at your location on a given date.
+Simple Python code that outputs the local sunset and sunrise time at your location on a given date.
 
 ## Usage
 - You'll need to get an API key from [Google Maps Platform](https://developers.google.com/maps/documentation/geocoding/get-api-key) to use Google's [Geocode](https://developers.google.com/maps/documentation/geocoding/start) and [Timezone](https://developers.google.com/maps/documentation/timezone/get-started) APIs.
